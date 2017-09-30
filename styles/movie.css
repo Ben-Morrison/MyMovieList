@@ -1,0 +1,10 @@
+#movieHeader {
+	height: 268px;
+}
+
+#movieHeaderInfo {
+	float: left;
+	padding-left: 20px;
+	height: 268px;
+	width: 774px;
+}
